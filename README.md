@@ -1,5 +1,24 @@
-- 👋 Hi, I’m @daniellabow
-- 👀 I’m interested in cybersecurity
-- 💯 I’m looking to collaborate on any project, whether it's C or x86Architecture to Java and HTML
-- 📫 I can be reached at marjondan05@gmail.com or @fluffycowsfluff through discord
-- ⚡ Fun fact: I'm a mariachi musician and vocalist!
+# 👋 Hey there! I'm Daniella Bowerman
+
+🎓 I'm an undergrad at UTSA concentrating in Cyber Operations with a minor in Russian — currently gaining hands-on experience as a **Data Science & AI Community Innovation Scholar** in partnership with **United Way San Antonio & Bexar County**.
+
+## 🔍 What I'm Up To Right Now
+- Using **Python**, **SQL**, and data tools to drive real-world impact for local nonprofits.
+- Working on data analysis, visualization, and storytelling to support community resource access and equity.
+- Collaborating with an interdisciplinary team to develop sustainable, insight-driven solutions.
+
+## 🛠️ Areas of Interest
+- Cybersecurity & systems programming (C, x86 Architecture)
+- Applied data science & machine learning
+- Java projects, basic web development (HTML/CSS), and anything that helps me grow
+
+## 💬 Let’s Connect!
+- 📫 Email: marjondan05@gmail.com  
+- 💻 Discord: @fluffycowsfluff
+
+## ✨ Fun Fact
+I'm also a mariachi musician and vocalist — you'll either find me deep in code or singing my heart out on stage!
+
+---
+
+Let’s build something impactful — or at least make the terminal look cool doing it. 🚀
