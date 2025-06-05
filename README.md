@@ -17,7 +17,7 @@
 - 💻 Discord: @fluffycowsfluff
 
 ## ✨ Fun Fact
-I'm also a mariachi musician and vocalist — you'll either find me deep in code or singing my heart out on stage!
+I'm also a mariachi musician and vocalist. Catch me with a guitar or mic in hand!
 
 ---
 
