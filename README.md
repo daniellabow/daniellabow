@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Daniella Bowerman
 
-🎓 I'm an undergrad at UTSA concentrating in Cyber Operations with a minor in Russian — currently gaining hands-on experience as a **Data Science & AI Community Innovation Scholar** in partnership with **United Way San Antonio & Bexar County**.
+🎓 I'm an Computer Science undergrad at UTSA concentrating in Cyber Operations — currently gaining hands-on experience as a **Data Science & AI Community Innovation Scholar** in partnership with **United Way San Antonio & Bexar County**.
 
 ## 🔍 What I'm Up To Right Now
 - Using **Python**, **SQL**, and data tools to drive real-world impact for local nonprofits.
