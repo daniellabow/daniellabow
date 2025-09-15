@@ -21,4 +21,4 @@ I'm also a mariachi musician and vocalist. Catch me with a guitar or mic in hand
 
 ---
 
-Let’s build something impactful — or at least make the terminal look cool doing it. 🚀
+Let’s build something impactful!🚀
